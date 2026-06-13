@@ -1,1 +1,2 @@
 # promptify
+promptify chrome extension
