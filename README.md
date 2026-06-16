@@ -8,3 +8,6 @@ Features:
   
 Pricing:
 €2.99/month
+
+Contact:
+ask.promptify@gmail.com
